@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Coach Rye Articles
 ---
 
 <div id="articles">
