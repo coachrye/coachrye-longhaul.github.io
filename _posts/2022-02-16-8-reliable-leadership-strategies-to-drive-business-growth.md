@@ -3,6 +3,7 @@ layout: post
 title:  "8 Reliable Leadership Strategies to Drive Business Growth"
 date:   2022-02-16
 description: Driving up business growth doesn’t have to be costly or completely overwhelming. Prepare to take this leap with them and head towards growth with these leadership strategies.
+author: bash
 ---
 
 Every business or organization wants to see their business grow. Who doesn’t? It is as good a symbol of success as any. While it is easy to boost sales or meet a quota, how do you ensure you can sustain that growth?

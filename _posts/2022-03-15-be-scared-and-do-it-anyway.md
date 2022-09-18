@@ -9,7 +9,7 @@ description: No harm in trying! Just Do It! Be Scared And Do It Anyway!
 
 Wow! That was quick. We couldn’t believe that it’s already been 2 1⁄2 months since we arrived in Toronto with our luggages. Three months since the visa approval. Yes, just 2 weeks to get everything sorted out, from getting our passports stamped, buying our plane tickets, and selling off our last remaining possessions to make sure everything fitted into those four luggages.
 
-<p style="background-color:#a9a9a9; padding:1rem; line-height:1;"><small>📹 Side-note: If you are interested to hear about our visa application journey, <a href="https://www.facebook.com/icanadafsi/posts/491898439043550">check out this video</a> from our friends at <a href="https://www.facebook.com/icanadafsi/">iCanada Future Solutions</a>. If you want to know even more about our Canada adventure, make sure you follow <a href="http://yummytummy.ph/">yummytummy.ph</a> on <a href="https://www.instagram.com/yummytummy.ph/">IG</a>, and <a href="https://www.youtube.com/yummytummyph">YouTube</a>. We will be coming up with something soon.</small></p>
+<p class="quote">📹 Side-note: If you are interested to hear about our visa application journey, <a href="https://www.facebook.com/icanadafsi/posts/491898439043550">check out this video</a> from our friends at <a href="https://www.facebook.com/icanadafsi/">iCanada Future Solutions</a>. If you want to know even more about our Canada adventure, make sure you follow <a href="http://yummytummy.ph/">yummytummy.ph</a> on <a href="https://www.instagram.com/yummytummy.ph/">IG</a>, and <a href="https://www.youtube.com/yummytummyph">YouTube</a>. We will be coming up with something soon.</p>
 
 ## Uncertainties and Hesitation
 
