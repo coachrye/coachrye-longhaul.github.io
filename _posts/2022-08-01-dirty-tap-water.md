@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Dirty Tap Water"
+author: rye
 date:   2022-08-01
 description: If you turn a dirty tap on it’s gonna flow shit water out for a substantial amount of time and then clean water’s gonna start flowing.
 ---
 
 A wise man once said …
 
-<p style="background-color:#a9a9a9; padding:1rem; line-height:1;"><small><em>If you turn a dirty tap on it’s gonna flow shit water out for a substantial amount of time and then clean water’s gonna start flowing.</em></small></p>
+<p class="quote">If you turn a dirty tap on it’s gonna flow shit water out for a substantial amount of time and then clean water’s gonna start flowing.</p>
 
 Turning that dirty tap back on is not easy though. It can be tough and sticky, but we have to power through it.
 

@@ -8,6 +8,18 @@ permalink: blog/:title/
 # Header Option
 # header: large
 
+# Authors
+authors:
+  rye:
+    name: Rye
+    display_name: Coach Rye
+    # avatar: 'assets/images/avatar.jpg'
+    gravatar: 8754b881e61a7906ce6acea815478a4f
+    email: rye@coachrye.com
+    web: https://www.coachrye.com
+    twitter: https://twitter.com/coachrye34
+    description: "Coach. Coder. Tester.  Leader."
+
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]

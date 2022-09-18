@@ -63,3 +63,40 @@ This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll th
 ## Running Locally:
 
 ``bundle exec jekyll serve``
+
+## Code for Author
+
+<!-- Author Box -->
+```
+{% if page.author %}
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        {% if author.avatar %}
+        {{ author.avatar  }}
+        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+        {% else %}
+        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+        {% endif %}
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+        <span class="author-description">{{ author.description }}</span>
+    </div>
+</div>
+{% endif %}
+```
+
+## Custom CSS
+
+Added directly to assets/css/style.css
+
+/* Customization by Rye */
+.quote {
+    background-color:#a9a9a9; 
+    padding:1rem; 
+    line-height:1;
+    font-size: smaller;
+    font-style: italic;
+  }
+  
+  
