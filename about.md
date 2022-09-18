@@ -6,19 +6,33 @@ title: About Coach Rye
 <div class="post">
 	<h1 class="pageTitle">About Coach Rye</h1>
 	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<h4><em>Performance Coach. Productivity Geek. Entrepreneur.</em></h4>
+	<p class="has-drop-cap has-medium-font-size"><strong>Coach Rye</strong>&nbsp;is a <em>Gallup Certified StrengthsFinder Coach</em> whose passion is to help <strong>unleash</strong> the <strong>unique superpowers</strong> which he believes lie in all of us. Coach Rye invests and interacts with his coachees to facilitate their growth, development, and performance, <em>bringing them from good to great to </em><strong><em>awesome</em></strong><em>!</em> He also partners with different organizations as a facilitator and a trainer.</p>
+<style>
+.has-medium-font-size {
+font-size: var(--wp--preset--font-size--medium) !important;
+}
+.has-drop-cap:not(:focus)::first-letter {
+float: left;
+font-size: 8.4em;
+line-height: 0.68;
+font-weight: 100;
+margin: 0.05em 0.1em 0 0;
+text-transform: uppercase;
+font-style: normal;
+}
+</style>
+	<p class="intro">Ryan has over 10 years of experience managing and coaching teams, and individuals from his years in the I.T. industry. He has worked for world-renowned establishments and multinational corporations including Ateneo De Manila University, De La Salle University, Accenture (Navitaire) and Oracle.</p>
+	<p>Ryan, together with his wife and business partners, has launched numerous business ventures — from food kiosks to lunch box delivery services to photography services.</p>
+<table>
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center; color: #fff; background-color: #1f4c75;">Relator</td>
+<td style="width: 20%; text-align: center; color: #fff; background-color: #5c3a6d;">Arranger</td>
+<td style="width: 20%; text-align: center; color: #fff; background-color: #9a0200;">Learner</td>
+<td style="width: 20%; text-align: center; color: #fff; background-color: #da892e;">Maximizer</td>
+<td style="width: 20%; text-align: center; color: #fff; background-color: #1f4c75;">Individualization</td>
+</tr>
+</tbody>
+</table>
 </div>
