@@ -74,3 +74,7 @@ Encouraging and supportive words are always appreciated. From giving one sincere
 Developing an empathetic nature is a quality that can help people from all walks of life. In an age where it’s easy to get lost in the shuffle, it is vital to have someone there to provide a shoulder to cry on. These positive impacts of encouragement make it much better than needless criticism.
 <hr>
 *Written by [Bash Sarmiento](https://www.linkedin.com/in/ringwald-rommel-p-sarmiento-ii-69270413a) for CoachRye.com*
+
+<script>
+    var custom_name = 'MORETHANWORDS';
+</script>
